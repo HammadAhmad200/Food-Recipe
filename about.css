@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:&display=swap,family=Rubik&display=swap');
+body{
+
+    background-color:#e8e8e85d;
+}
+.about_1{
+   
+    padding: 10rem 8rem 1rem 8rem;
+    text-align: center;
+}
+.about_1 h1{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: rgb(36, 33, 33);
+}
+.about_1 p{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: rgb(36, 33, 33);
+    line-height: 2;
+}
+.about_2{
+   margin: 3rem 7rem;
+}
+.banner_detail{
+    padding:5rem 13rem 5rem 5rem ;
+    margin: 4rem;
+}
+
+.detail_back{
+    background-color: #ffff;
+    padding: 2rem;
+}
+.detail_back h3{
+    
+    font-family: Montserrat, Helvetica, Arial, Lucida, sans-serif;
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 2;
+    
+}
+.detail_back p{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 2;
+}
+.b1{
+    background-image: url("images/about/Image_15-1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.b2{
+    background-image: url("images/about/Image_16-1.jpg");
+    background-position: center;
+    background-size: cover;
+    padding:5rem 5rem 5rem 13rem ;
+    /* padding-left: 27rem; */
+}
+.b3{
+    background-image: url("images/about/Image_17-1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.about_3{
+    margin: 2rem 0 3rem 0;
+    background-color:#faf3d2;
+    padding: 3rem;
+    background-image: url("images/recipe_illustration_01-2.png");
+    background-size: cover;
+    padding: 3rem 4rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.achievements h1{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    font-size: 64px;
+    font-weight: 500;
+    color: rgb(36, 33, 33);
+}
+.achievements p{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    margin:  0rem 5rem;
+    font-size: 1.1rem;
+    font-weight: normal;
+    line-height: 2;
+    color: rgb(63, 58, 58);
+}
+.ach_details{
+    display: flex;
+    justify-content: center;
+    
+}
+.ach_digit{
+    margin: 0rem 3rem;
+}
+.ach_digit h1{
+    line-height: 1;
+}
+.ach_digit p{
+    margin: 0;
+    font-size: 1rem;
+    color: rgb(48, 44, 44);
+    line-height: 1;
+}
+.about_4{
+    justify-content: center;
+    padding: 6rem;
+}
+.about_4 h1{
+font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+font-size: 50px;
+font-weight: 400;
+color: rgb(56, 53, 52);
+
+    text-align: center;
+    display: flow-root;
+}
+.why_detail{
+    display: flex;
+    padding: 2rem;
+}
+.why_detail h1{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    font-size: 28px;
+    font-weight: 300;    
+    display: flex;
+    margin: 0 0 0 4rem;
+    line-height: 2;
+    color: rgb(36, 33, 33);
+}
+.why_detail p{
+margin-left: 7rem;
+color: rgb(63, 58, 58);
+line-height: 2;
+font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+font-size: 1.2rem;
+
+}
+.why_detail span{
+    height: 3rem;
+    width: 3rem;
+     margin-right: 1rem;
+     margin-left: -1rem;
+    border-radius: 5rem;
+    background-color: coral;
+    justify-content: center;
+    line-height: 2;
+    color:#ffff;
+}
+.about_5{
+    background-color:#faf3d2;
+    justify-content: center;
+    padding: 2rem 8rem 3rem 8rem;
+
+}
+.about_5 h1{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: rgb(56, 53, 52);
+    text-align: center;    
+    margin: 3rem;
+}
+.test_persons{
+    display: flex;
+}
+.test_person{
+    text-align: center;
+    margin: 2rem;
+}
+.test_person p{
+color: rgb(63, 58, 58);
+line-height: 2;
+font-size: 1.2rem;
+font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+}
+.test_person h2{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    line-height: 0;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+.test_pic{
+    margin: auto;
+    justify-content: center;
+    overflow: hidden;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 10rem;
+}
+.test_pic img{
+    width: 100%;
+    transform: scale(1.02);
+}
+.about_6{
+    text-align: center;
+    justify-content: center;
+    padding: 2rem 8rem 3rem 8rem;
+}
+.about_6 h1{
+    font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: rgb(44, 42, 41);
+    text-align: center;    
+    margin: 3rem;
+}
+.chefs{
+    display: flex;
+    justify-content: center;
+}
+.chefsname{
+    margin: 2rem;
+    height: 34rem;
+    width: 24rem;
+    justify-content: center;
+}
+.chefsname h1{
+    
+    font-size: 2.1rem;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+}
+.chefsname p{
+    line-height: 1;
+    color: rgb(105, 102, 101);
+    font-size: 1.7rem;
+}
+.c_1{
+    background-image: url("images/about/portrait-03.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.c_2{
+    background-image: url("images/about/portrait-11.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.c_3{
+    background-image: url("images/about/portrait-07.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.c_name{
+    padding: 2rem 0rem 0.1rem 0;
+    margin: 22rem 1rem;
+    background-color: white;
+
+}
